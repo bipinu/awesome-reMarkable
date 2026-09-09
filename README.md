@@ -67,6 +67,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ### Lines Format
 
+- [librm_lines](https://github.com/RedTTGMoss/librm_lines) - A C++ library for reading & writing & rendering v6 files with the original reMarkable quill library, includes multiple languages wrappers for python and npm.
 - [lines-are-beautiful](https://github.com/ax3l/lines-are-beautiful) - C++ File API for the reMarkable tablet.
 - [lines-are-rusty](https://github.com/ax3l/lines-are-rusty) - Rust File API for the reMarkable tablet.
 - [reMarkable-kaitai](https://github.com/matomatical/reMarkable-kaitai) - [Kaitai Struct](https://kaitai.io/) format specification for the binary lines format.
